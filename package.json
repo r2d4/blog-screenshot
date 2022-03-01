@@ -1,0 +1,21 @@
+{
+  "name": "screenshot-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-js": "^0.33.1",
+    "jimp": "^0.16.1",
+    "puppeteer": "^13.1.1",
+    "wasm-imagemagick": "^1.2.8",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "axios": "^0.26.0"
+  }
+}
